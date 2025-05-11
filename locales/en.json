@@ -1,0 +1,9 @@
+{
+  "USER_ALREADY_EXIST": "User already exist!",
+  "EMAIL_IS_ALREADY_TAKEN": "Email already exist!",
+  "USERNAME_REQUIRED": "User name is required",
+  "EMAIL_REQUIRED": "Email is required",
+  "GENDER_REQUIRED": "Gender is required",
+  "AGE_REQUIRED": "Age is required",
+  "PASSWORD_REQUIRED": "Password is required"
+}
